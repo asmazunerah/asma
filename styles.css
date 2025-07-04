@@ -384,11 +384,12 @@ body {
 .footer {
     background: linear-gradient(135deg, var(--navy-blue) 0%, var(--black) 100%);
     color: var(--white);
-    padding: 40px;
+    padding: 43px;
     text-align: center;
     position: relative;
     overflow: hidden;
     border-top: 3px solid var(--gold);
+    border-radius: 15px; /* Add this line for rounded corners */
 }
 
 .footer::before {
