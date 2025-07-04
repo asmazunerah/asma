@@ -389,7 +389,7 @@ body {
     position: relative;
     overflow: hidden;
     border-top: 3px solid var(--gold);
-    border-radius: 15px; /* Add this line for rounded corners */
+    border-radius: 40px; /* Add this line for rounded corners */
 }
 
 .footer::before {
